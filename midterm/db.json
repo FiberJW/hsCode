@@ -1,0 +1,70 @@
+[
+  {
+    "definition": "In computer science and computer programming, a data type or simply type is a classification identifying one of various types of data.",
+    "key": "Type"
+  },
+  {
+    "definition": "Sequence is the default control structure; instructions are executed one after another.",
+    "key": "Sequence"
+  },
+  {
+    "definition": "In computer programming, a loop is a sequence of instruction s that is continually repeated until a certain condition is reached.",
+    "key": "Loop"
+  },
+  {
+    "definition": "A container object capable of returning its members one at a time.",
+    "key": "Iterable"
+  },
+  {
+    "definition": "A loop that whose condition never evalutes to false.",
+    "key": "Infinite loop"
+  },
+  {
+    "definition": "A variable used to watch a condition in a loop.",
+    "key": "Sentry"
+  },
+  {
+    "definition": "A wrapper for a sequence of code that is callable by name.",
+    "key": "Function"
+  },
+  {
+    "definition": "A function of an object.",
+    "key": "Method"
+  },
+  {
+    "definition": "An external set of code that can be imported and used.",
+    "key": "Module"
+  },
+  {
+    "definition": "An ordered iterable, also called an array.",
+    "key": "List"
+  },
+  {
+    "definition": "An immutable ordered iterable.",
+    "key": "Tuple"
+  },
+  {
+    "definition": "Programming that goes into building a product.",
+    "key": "Source code"
+  },
+  {
+    "definition": "A programming language optimized for human comprehension.",
+    "key": "High level language"
+  },
+  {
+    "definition": "A programming langage optimized for computer comprehension.",
+    "key": "Low level language"
+  },
+  {
+    "definition": "Binary digits that the computer can understand.",
+    "key": "Machine code"
+  },
+  {
+    "definition": "Line by line transpiler from source code to machine code.",
+    "key": "Interpreter"
+  },
+  {
+    "definition": "Batch transformation from source code to machine code.",
+    "key": "Compiler"
+  }
+]
